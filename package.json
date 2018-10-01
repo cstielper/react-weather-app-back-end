@@ -1,0 +1,21 @@
+{
+  "name": "react-weather-app-backend",
+  "version": "1.0.0",
+  "description": "Backend to fetch data from Dark Sky Weather API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Chris Stielper",
+  "license": "ISC",
+  "engines": {
+    "node": "9.6.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.2.0"
+  }
+}
