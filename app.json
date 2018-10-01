@@ -1,0 +1,6 @@
+{
+  "name": "React Weather App Back End",
+  "description": "Back end proxy for Dark Sky API",
+  "repository": "https://github.com/cstielper/react-weather-app-back-end",
+  "keywords": ["node", "express", "heroku"]
+}
